@@ -5,7 +5,7 @@ An interactive math game to test and practice your multiplication knowledge.
 ![Enter Info](https://github.com/matthewmck/Multiplication-Game/blob/master/Screenshot/Capture.JPG)
 
 ## Demo
-[JSFiddle](https://jsfiddle.net/mattmck/0dd1cnth/)
+[JSFiddle](https://jsfiddle.net/mattmck/8gr00pz3/)
 
 ## Technologies
 - HTML5
@@ -13,9 +13,6 @@ An interactive math game to test and practice your multiplication knowledge.
 - JavaScript
 
 ## Components Used
-- [Photo - Tikkho Maciel](https://unsplash.com/@tikkho?photo=zQgsdQvj1IM)
-- [Font Awesome: pencil-square-o](http://fontawesome.io/icon/pencil-square-o/)
-- [Font Awesome: trash](http://fontawesome.io/icon/trash/)
 - [Google Fonts: Roboto](https://fonts.google.com/specimen/Roboto)
 
 ## Browser Support 
