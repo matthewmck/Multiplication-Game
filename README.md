@@ -2,7 +2,7 @@
 An interactive math game to test and practice your multiplication knowledge. 
 
 ## Screenshot
-![Enter Info](https://github.com/matthewmck/Todo-List/blob/master/Screenshot/Capture.JPG)
+![Enter Info](https://github.com/matthewmck/Multiplication-Game/blob/master/Screenshot/Capture.JPG)
 
 ## Demo
 [JSFiddle](https://jsfiddle.net/mattmck/0dd1cnth/)
