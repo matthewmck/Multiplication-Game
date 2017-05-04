@@ -1,0 +1,89 @@
+html {
+	height: 100%;
+}
+
+body {
+	background: #43cea2;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #185a9d, #43cea2);
+	background: linear-gradient(to right, #185a9d, #43cea2); 
+	min-height: 100%;
+	min-width: 100%;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	margin-top: 100px;
+	text-align: center;
+	color: #F0F3F4;
+	font-size: 3em;
+	text-shadow: 0px 1px 3px rgba(0,0,0,0.4),
+                 0px 2px 13px rgba(0,0,0,0.1),
+                 0px 6px 23px rgba(0,0,0,0.1);
+}
+
+#content {
+	margin: 8% auto 0 auto;
+	width: 400px;
+}
+
+#problem {
+	font-size: 3em;
+	text-align: center;
+	user-select: none;
+	color: #F0F3F4;
+}
+
+#correct {
+	color: #F0F3F4;
+	font-weight: bold;
+}
+
+.box {
+	margin: 15px;
+	height: 100px;
+	width: 100px;
+
+	text-align: center;
+	font-size: 1.8em;
+	line-height: 100px; 
+	color: white;
+	user-select: none;
+
+	background: #34495E;
+	display: inline-block;
+	cursor: pointer;
+	position: relative;
+
+	border-radius: 15px;
+	box-shadow: 0px 4px #283747;
+	transition: all 200ms ease 0s
+}
+
+.box:hover {
+	background: #5D6D7E;
+	box-shadow: 0px 4px #566573;
+}
+
+.box:active {
+	box-shadow: 0px 0px rgba(0, 0, 0, 0);
+	top: 4px;
+}
+
+
+#easy, #hard {
+	float: right;
+	margin-right: 30px;
+}
+
+#easy, #hard, #newProblem {
+	font-size: 1.3em;
+	cursor: pointer;
+	user-select: none;
+	color: #F0F3F4;
+}
+
+#easy:hover, #hard:hover, #newProblem:hover {
+	color: #A9CCE3;
+	transition: all 400ms ease 0s
+}
