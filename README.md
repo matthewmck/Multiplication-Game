@@ -22,4 +22,4 @@ An interactive math game to test and practice your multiplication knowledge.
 - Edge
 
 ## License
-[MIT](https://github.com/matthewmck/Todo-List/blob/master/LICENSE) © [Matthew McKee](https://www.linkedin.com/in/matthew-mckee-082b4385/)
+[MIT](https://github.com/matthewmck/Multiplication-Game/blob/master/LICENSE) © [Matthew McKee](https://www.linkedin.com/in/matthew-mckee-082b4385/)
